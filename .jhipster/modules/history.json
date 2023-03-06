@@ -9,5 +9,15 @@
       "endOfLine" : "lf",
       "indentSize" : 2
     }
+  }, {
+    "module" : "infinitest-filters",
+    "date" : "2023-03-06T07:55:28.346763329Z",
+    "properties" : {
+      "packageName" : "org.play.wsjl",
+      "baseName" : "WebServicesJHipsterLite",
+      "projectName" : "WebServicesJlite",
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
   } ]
 }
