@@ -1,0 +1,13 @@
+{
+  "name": "web-services-j-hipster-lite",
+  "version": "0.0.0",
+  "private": true,
+  "description": "WebServicesJlite",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=18.14.2"
+  },
+  "cacheDirectories": [
+    "node_modules"
+  ]
+}

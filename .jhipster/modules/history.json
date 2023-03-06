@@ -1,0 +1,13 @@
+{
+  "actions" : [ {
+    "module" : "init",
+    "date" : "2023-03-06T07:55:28.304768463Z",
+    "properties" : {
+      "packageName" : "org.play.wsjl",
+      "baseName" : "WebServicesJHipsterLite",
+      "projectName" : "WebServicesJlite",
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  } ]
+}
