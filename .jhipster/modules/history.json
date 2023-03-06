@@ -19,5 +19,15 @@
       "endOfLine" : "lf",
       "indentSize" : 2
     }
+  }, {
+    "module" : "maven-java",
+    "date" : "2023-03-06T07:55:28.622645536Z",
+    "properties" : {
+      "packageName" : "org.play.wsjl",
+      "baseName" : "WebServicesJHipsterLite",
+      "projectName" : "WebServicesJlite",
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
   } ]
 }
